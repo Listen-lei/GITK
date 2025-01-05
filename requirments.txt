@@ -1,0 +1,13 @@
+rdkit
+scipy
+biopython
+pandas
+biopandas
+timeout_decorator
+py3Dmol
+umap-learn
+plotly
+mplcursors
+lifelines
+reprint
+fair-esm
